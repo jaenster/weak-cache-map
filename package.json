@@ -25,6 +25,10 @@
     "es2021"
   ],
   "author": "Jaenster",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaenster/weak-cache-map.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^27.0.2",

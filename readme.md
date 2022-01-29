@@ -9,7 +9,7 @@ the modern stuff of WeakRef's, that's possible.
 # Abstract example
 
 ```typescript
-import {WeakCache} from 'weak-cache';
+import {WeakCache} from 'weak-cache-map';
 
 // Just so we have some proper typing, e.g. mongoose has this implementation
 type DBModel<T> = { findOne(filter: { _id: string }): Promise<T> }; 
